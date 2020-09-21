@@ -1,4 +1,5 @@
 # Henrys-Exciting-Electronics
+EAGLE PCB Designs for Various Schematics From [interestingelectronics.com.](https://www.interestingelectronics.com)
 With Eurorack Power Headers.  
 Note: stackable pot/jack faceplate PCBs are missing.
 
