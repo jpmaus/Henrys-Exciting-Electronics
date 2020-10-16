@@ -1,7 +1,7 @@
 # Henrys-Exciting-Electronics
 EAGLE PCB Designs for Various Schematics From [interestingelectronics.com.](https://www.interestingelectronics.com)
 With Eurorack Power Headers.  
-Note: stackable pot/jack faceplate PCBs are missing.
+Note: stackable pot/jack faceplate PCBs are missing.  Please look at Henry's schematics, design the stackable pot/jack boards in EAGLE CAD, let me know, and I'll merge them...  If I ever get the time to print them myself, then I'll upload them, but I'm so short on time these days!
 
 ## Ambisonic "Clock Outputs" Decoder with Special Crosstalk Cancellation
 [Ambisonic "Clock Outputs" Decoder with Special Crosstalk Cancellation](https://www.interestingelectronics.com/old/henrys_interesting_electronics/ambisonic_decoder/ambisonic_clock_decoder/ambisonic_clock_decoder.htm)
