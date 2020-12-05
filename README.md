@@ -3,6 +3,9 @@ EAGLE PCB Designs for Various Schematics From [interestingelectronics.com.](http
 With Eurorack Power Headers.  
 Note: stackable pot/jack faceplate PCBs are missing.  Please look at Henry's schematics, design the stackable pot/jack boards in EAGLE CAD, let me know, and I'll merge them...  If I ever get the time to print them myself, then I'll upload them, but I'm so short on time these days!
 
+FOR SALE, I had a small run of 5 each done for the Dual Analogue Frequency Shifter and the Ithycoo Tape Flanger, you can purchase them here, if you buy one and design a pot & jack board be sure and share it with me! [BUY PCBS](https://demonstration-bootleg.com/shop/ols/categories/pcb)
+
+
 ## Ambisonic "Clock Outputs" Decoder with Special Crosstalk Cancellation
 [Ambisonic "Clock Outputs" Decoder with Special Crosstalk Cancellation](https://www.interestingelectronics.com/old/henrys_interesting_electronics/ambisonic_decoder/ambisonic_clock_decoder/ambisonic_clock_decoder.htm)
 <p align="center">
